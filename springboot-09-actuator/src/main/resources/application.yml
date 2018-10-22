@@ -1,0 +1,8 @@
+management:
+  security:
+    enabled: false
+
+info:
+  app:
+    id: hello
+    version: 1.0.0
